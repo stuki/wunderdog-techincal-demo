@@ -1,0 +1,15 @@
+{
+  "account": "Tili",
+  "billing": "Laskutus",
+  "change_password": "Vaihda salasana",
+  "confirm_password": "Vahvista salasana",
+  "email": "Sähköposti",
+  "english": "English",
+  "finnish": "Suomi",
+  "language": "Kieli",
+  "login": "Kirjaudu sisään",
+  "phone": "Puhelinnumero",
+  "save": "Tallenna",
+  "sensors": "Sensorit",
+  "settings": "Asetukset"
+}

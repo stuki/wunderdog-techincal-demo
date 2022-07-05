@@ -1,0 +1,56 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+html,
+body,
+body > div:first-child,
+div#__next {
+  height: 100%;
+}
+
+html {
+  background: #1a2c38;
+  width: 100vw;
+  color: #c5c4c4;
+  font-family: 'Inter var', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+}
+
+body {
+  overflow: hidden;
+}
+
+.logo-gradient {
+  background: linear-gradient(210.42deg, #71a648b3 40%, #0df0ffb3 110%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.form-gradient {
+  background: linear-gradient(186.26deg, #10c5d066 -357.74%, #ffffff00 328.13%);
+  color: #e5e5e5;
+}
+
+.button-gradient {
+  background: linear-gradient(275.95deg, #10c5d080 13.52%, #71a64880 127.43%);
+  color: #e5e5e5;
+}
+
+.active-background {
+  background-color: #71a64850;
+}
+
+.background-gradient {
+  background: linear-gradient( 314deg , #10c5d02e 21.52%, #71a6487a 100.43%);
+}
+
+.color-darker { background-color: #182731 }
+.color-dark { background-color: #1a2c38 }
+.color-gray { background-color: #3c5059 }
+.color-gray-light { background-color: #3d4d59 }
+.color-white { background-color: #8296a4 }
+.color-primary-lightest { background-color: #c0d0b0 }
+.color-primary-lighter { background-color: #99bb7c }
+.color-primary { background-color: #71a648 }

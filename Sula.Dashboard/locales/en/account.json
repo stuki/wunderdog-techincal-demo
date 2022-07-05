@@ -1,0 +1,15 @@
+{
+  "account": "Account",
+  "billing": "Billing",
+  "change_password": "Change password",
+  "confirm_password": "Confirm new password",
+  "email": "Email",
+  "english": "English",
+  "finnish": "Suomi",
+  "language": "Language",
+  "login": "Log in",
+  "phone": "Phone",
+  "save": "Save",
+  "sensors": "Sensors",
+  "settings": "Settings"
+}

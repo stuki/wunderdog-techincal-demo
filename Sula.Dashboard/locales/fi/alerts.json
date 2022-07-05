@@ -1,0 +1,12 @@
+{
+  "ago": "sitten",
+  "alertTime": "Hälytysaika",
+  "dataType": "Data tyyppi",
+  "latitude": "Latitude",
+  "less_than": "Vähemmän kuin",
+  "longitude": "Longitude",
+  "more_than": "Enemmän kuin",
+  "name": "Nimi",
+  "operator": "Vertaus",
+  "value": "Arvo"
+}

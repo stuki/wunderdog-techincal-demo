@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "faq": "Faq",
+  "hero": "Remotely monitor your home with <0>IoT sensors</0>",
+  "sellingPoints": {
+    "1": "One step setup",
+    "2": "No internet access needed",
+    "3": "Up to 5 year battery life",
+    "4": "Measures temperature and humidity, water leaks and fire hazards",
+    "5": "Automatic SMS alerts to your phone",
+    "6": "Android and iPhone app"
+  },
+  "launch": "Launching 2021",
+  "cta": "Let us notify you when it happens!",
+  "email": "Your email",
+  "notify": "Notify me!",
+  "sent": "Done!"
+}

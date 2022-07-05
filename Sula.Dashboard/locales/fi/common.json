@@ -1,0 +1,15 @@
+{
+  "account": "Profiili",
+  "alerts": "Hälytykset",
+  "dashboard": "Näkymä",
+  "email": "Sähköposti",
+  "email_placeholder": "Sähköposti",
+  "forgot_password": "Unohtuiko salasana?",
+  "login": "Kirjaudu sisään",
+  "password": "Salasana",
+  "password_placeholder": "Salasana",
+  "sensors": "Sensorit",
+  "signout": "Sign out",
+  "support": "Support",
+  "terms": "Terms and conditions"
+}

@@ -1,0 +1,17 @@
+{
+  "home": "Koti",
+  "faq": "UKK",
+  "hero": "Helppoa etävalvontaa asuntollesi <0>IoT sensoreilla</0>",
+  "sellingPoints": {
+    "1": "Nopea ja helppo asennus",
+    "2": "Toimii ilman internetyhteyttä",
+    "3": "Jopa viiden vuoden patterinkesto",
+    "4": "Mittaa ilmanlämpöä, ilmankosteutta, vesivuotoa ja paloja",
+    "5": "Automaattinen SMS hälytys puhelimeesi",
+    "6": "Toimii Androidilla ja iPhonella"
+  },
+  "launch": "Julkaistaan 2021",
+  "cta": "Anna meidän ilmoittaa sinulle kun julkaistaan!",
+  "email": "Sinun sähköpostisi",
+  "notify": "Ilmoita minulle!"
+}

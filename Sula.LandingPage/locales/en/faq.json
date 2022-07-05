@@ -1,0 +1,108 @@
+{
+  "0": {
+    "question": "Where is this service available?",
+    "answer": "For now only in the Nordics. Sula is based in Helsinki, Finland"
+  },
+  "1": {
+    "question": "What does it cost?",
+    "answer": "The final cost is not finalized, but somewhere inbetween 100€ and 200€ per year range for a single sensor. Additional sensors will not cost as much if added."
+  },
+  "2": {
+    "question": "Where does it work?",
+    "answer": "The sensors are connected to the Sigfox IoT network, and are thus limited to operate only within the network coverage. Placement inside can also affect the signal strenght."
+  },
+  "3": {
+    "question": "How does it work?",
+    "answer": "Sensors are added to your account, and sent to you. Adding batteries, or pulling the tab from the battery in order for it to connect will enable the sensor to transmit data. Limits can be set for values in the web app, and each sensor message is then evaluated based on the limits added. If the value is outside the range set by the limits, an alert will be sent by SMS and Email. For the water leak or fire alarm sensor, no limits are needed, and an alert will automatically be sent out if something happens. If you want to monitor the current situation you can always login to the app and view the sensor data on the dashboard."
+  },
+  "4": {
+    "question": "Who sees the data?",
+    "answer": "The data is purely processed by machine logic, no human will ever interact with it."
+  },
+  "5": {
+    "question": "Who owns the data?",
+    "answer": "You own all your data and can request to extract all of it if needed."
+  },
+  "6": {
+    "question": "Where is the data kept?",
+    "answer": "The data resides on servers adminstered by Azure, within EU."
+  },
+  "7": {
+    "question": "Can I use this instead of insurance?",
+    "answer": "No"
+  },
+  "8": {
+    "question": "How often do the senosors collect data?",
+    "answer": "The temperature and humidity sensor collects a measurement every hour, while the water leak detector and fire alarm will only send if something happens. The water leak detector and fire alarm also sends one message a day to signal that it is working."
+  },
+  "9": {
+    "question": "What sensors are available?",
+    "answer": "Currently we offer a temperature and humidity sensor, Airwits, a fire alarm sensor, INSERT NAME HERE, and a water leak detector, INSERT NAME"
+  },
+  "10": {
+    "question": "What if the sensors do not work where I put them?",
+    "answer": "We will help you troubleshoot the device and location, and if nothing seems to work, we offer 30 day free return."
+  },
+  "11": {
+    "question": "How does the payment work?",
+    "answer": "You will need to supply your credit card, and that card will be charged yearly. Reminder emails will be sent out before the card is charged."
+  },
+  "12": {
+    "question": "What's your stack?",
+    "answer": "Glad you asked! Azure is used for hosting the .NET backend, and the Azure Functions used for processing the sensor data. Vercel is used for hosting this page, which is written with NextJS. Sigfox provides the global IoT Sensor network, and Connected Finland the sensors."
+  },
+  "13": {
+    "question": "How will I get help when I buy it?",
+    "answer": "We will usually answer within a day to support requests sent to our support email."
+  },
+  "14": {
+    "question": "Is this a mobile app?",
+    "answer": "Not at the moment no, but this might be the next step in the development."
+  },
+  "15": {
+    "question": "I travel a lot and SMS is not reliable, do you send email?",
+    "answer": "The alerts will also be sent to your email address, so that we will always reach you if there is something critical."
+  },
+  "16": {
+    "question": "Where do I install the sensor?",
+    "answer": "The water leak detector has to be placed under anything that you want to monitor leaks from. The fire alarm works as a normal fire alarm, and should be used as such. The temperature and humidity sensor can be placed in any space that you want to monitor."
+  },
+  "17": {
+    "question": "How do I install the sensor?",
+    "answer": "You will recieve a package with detailed installation instructions, but it is as simple as putting in the batteries, and placing it where you want to place it. No wires needed!"
+  },
+  "18": {
+    "question": "Does it need internet?",
+    "answer": "No, the sensors are connected to the Sigfox IoT network, and can function without an internet connection."
+  },
+  "19": {
+    "question": "Does it need electricity",
+    "answer": "No, the sensors use normal batteries that are provided with them to power themselves."
+  },
+  "20": {
+    "question": "What happens when the battery runs out?",
+    "answer": "Either we replace the whole sensor for you with a new one, or we can guide you to replace the batteries by yourself, since they use off the shelf batteries!"
+  },
+  "21": {
+    "question": "How long will the sensor run on batteries?",
+    "answer": "It is estimated that they can run up to 5 years without the need for a battery change. This will of course vary based on the environment."
+  },
+  "unused": {
+    "0": {
+      "question": "How can I cancel?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat diam et pretium facilisis. Suspendisse tincidunt leo nec vestibulum aliquet. Maecenas scelerisque leo eget finibus tempor. Pellentesque auctor ut odio sit amet volutpat."
+    },
+    "1": {
+      "question": "What do I do with the sensors when I cancel?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat diam et pretium facilisis. Suspendisse tincidunt leo nec vestibulum aliquet. Maecenas scelerisque leo eget finibus tempor. Pellentesque auctor ut odio sit amet volutpat."
+    },
+    "2": {
+      "question": "What if I want to order more sensors?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat diam et pretium facilisis. Suspendisse tincidunt leo nec vestibulum aliquet. Maecenas scelerisque leo eget finibus tempor. Pellentesque auctor ut odio sit amet volutpat."
+    },
+    "3": {
+      "question": "Can we use this as a business?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat diam et pretium facilisis. Suspendisse tincidunt leo nec vestibulum aliquet. Maecenas scelerisque leo eget finibus tempor. Pellentesque auctor ut odio sit amet volutpat."
+    }
+  }
+}

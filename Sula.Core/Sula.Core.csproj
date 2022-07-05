@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="OpenIddict.AspNetCore" Version="3.0.0-rc2.20607.88" />
+      <PackageReference Include="OpenIddict.EntityFrameworkCore" Version="3.0.0-rc2.20607.88" />
+      <PackageReference Include="SendGrid" Version="9.21.2" />
+      <PackageReference Include="Stripe.net" Version="39.29.0" />
+      <PackageReference Include="Twilio" Version="5.52.0" />
+    </ItemGroup>
+
+</Project>

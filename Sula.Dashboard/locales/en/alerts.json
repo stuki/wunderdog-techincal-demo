@@ -1,0 +1,14 @@
+{
+  "ago": "ago",
+  "alertTime": "Alert time",
+  "dataType": "Data type",
+  "latitude": "Latitude",
+  "less_than": "less than",
+  "longitude": "Longitude",
+  "more_than": "more than",
+  "name": "Name",
+  "sensor": "Sensor",
+  "reason": "Reason",
+  "operator": "Operator",
+  "value": "Value"
+}
